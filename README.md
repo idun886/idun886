@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h1> http://47.242.144.113:5888/indexnum </h1>
+  
 </div>
