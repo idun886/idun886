@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<div>https://github-readme-stats.vercel.app/api/top-langs/?username=idun886&layout=compact&hide=html,javascript</div>
+
+
 <!--
 **idun886/idun886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
