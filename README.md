@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-
+<div>
+<img src="[!]https://github-readme-stats.vercel.app/api/top-langs/?username=idun886&layout=compact&hide=html,javascript">
+</div>
 
 
 <!--
